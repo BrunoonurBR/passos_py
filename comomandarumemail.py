@@ -29,4 +29,4 @@ server.sendmail(msg['From'], msg['To'], msg.as_string())
 #encerramento do servidor
 server.quit()
 
-print('Mensagem enviada com sucesso')
+print('Mensagem enviada com sucesso') 
